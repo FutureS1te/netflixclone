@@ -178,14 +178,14 @@
     background-image: url(./assets/1.png);
   }
   .yellow-gradient{
-    background-image: url(./assets/2.png);
+    background-image: url(.assets/2.png);
   }
   .cyan-gradient{
-    background-image: url(./assets/3.png);
+    background-image: url(.assets/3.png);
   }
   .green-gradient{
-    background-image: url(./assets/4.png);
+    background-image: url(.assets/4.png);
   }
   .red-gradient{
-    background-image: url(./assets/5.png);
+    background-image: url(.assets/5.png);
   }
